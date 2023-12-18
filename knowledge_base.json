@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "Who is the prime minister of India",
+      "answer": "Narendra Modi"
+    },
+    {
+      "question": "How old is Siddharth",
+      "answer": "18 Years old"
+    },
+    {
+      "question": "Who is the current IPL champions?",
+      "answer": "Gujarat Titans"
+    },
+    {
+      "question": "Who is the captain of Indian Cricket team",
+      "answer": "Rohit Sharma"
+    },
+    {
+      "question": "Hi",
+      "answer": "hi there!"
+    },
+    {
+      "question": "How many players are there in a cricket team",
+      "answer": "11 Players"
+    },
+    {
+      "question": "How far is the sun from earth",
+      "answer": "150 million Km"
+    }
+  ]
+}
